@@ -1,7 +1,7 @@
 /******************************************************************************
- * Họ và tên: [ĐIỀN TÊN TẠI ĐÂY]
- * MSSV:      [ĐIỀN MSSV TẠI ĐÂY]
- * Lớp:       [ĐIỀN LỚP TẠI ĐÂY]
+ * Họ và tên: [Nguyễn Thành Tâm]
+ * MSSV:      [PS48578]
+ * Lớp:       [COM108 - CS21302]
  *****************************************************************************/
 
 //  BÀI 2: TÌM GIÁ TRỊ LỚN NHẤT VÀ NHỎ NHẤT TRONG MẢNG 
@@ -9,4 +9,3 @@
 //  Output: Xuất ra màn hình giá trị nhỏ nhất và lớn nhất của mảng
 
 // VIẾT CODE Ở ĐÂY
-
